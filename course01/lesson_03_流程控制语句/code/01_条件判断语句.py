@@ -27,7 +27,7 @@ else:
 
 # 练习3
 # 获取狗狗年龄
-Dog_Age = int(input("请输入狗狗年龄："))
+Dog_Age = float(input("请输入狗狗年龄："))
 # 根据输入年龄的不同返回不同的提示
 if Dog_Age <= 0:
     print("您输入的狗狗年龄有误")
