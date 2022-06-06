@@ -6,3 +6,6 @@ def product(p1,p2,p3):
     print(p1,"*",p2,"*",p3,"=",p1*p2*p3)
 # 调用函数
 product(1,3,4)
+
+mc = ""
+mc.name = 'sunwukong'
