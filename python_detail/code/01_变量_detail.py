@@ -25,3 +25,24 @@ info = {'name':'panghu','gender':'male','age':1}
 # bool
 a = True
 b = False
+
+
+print("test")
+def foo(n):
+    print('foo say hello')
+    return n
+print(f"{foo(10)}")
+
+
+l = ['aaa','bbb','cccc']
+print('l',id(l))
+
+l = ['bbbbb','vvvvvvv']
+print('l',id(l))
+print(id(l[1]))
+l[0] = '1'
+print('l',id(l))
+print(id(l[1]))
+
+print(10 < 3 and True)
+print(10 < 3 and 5)
