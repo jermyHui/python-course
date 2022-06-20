@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3m
 # -*- coding: UTF-8 -*-
 # 分别定义两个列表，且两个列表中存在相同元素
 # l1 = [1,2,3,4,5]
