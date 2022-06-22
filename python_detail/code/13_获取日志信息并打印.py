@@ -11,7 +11,7 @@ with open('test.log',mode='rb') as f:
         if len(res) == 0:
             time.sleep(0.3)
         else:
-            print(res)
+            print(res,end='')
 '''
 @version:3.8
 @author:chenchen
