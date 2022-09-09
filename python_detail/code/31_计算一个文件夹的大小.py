@@ -2,7 +2,6 @@
 # -*- coding: UTF-8 -*-
 import os
 # print(os.path.isfile('D:\github\python_detail\code\19_统计运行时间的装饰器.py'))
-
 def get_filesize(dir):
     # 初始化文件大小的变量
     size = 0
