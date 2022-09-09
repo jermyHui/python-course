@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.8
 # -*- coding: UTF-8 -*-
-import json
+import json2
 # # 定义一个列表
 # l = [1,'hhh',True,False]
 # # 将列表通过json序列化
