@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# import selenium
 # 定义列表1
 list1 = ['1','abc',['aa','bb']]
 # copy列表1为列表3
