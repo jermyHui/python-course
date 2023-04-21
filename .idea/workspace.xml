@@ -2,14 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6e4c64a-721e-43ec-9dd2-6250ab9ab948" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/automated test/firefox_driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automated test/python_test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automated test/selenium_import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automated test/test_baidu_firefox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/HTMLTestRunner_PY3-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/HTMLTestRunner_PY3-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/HTMLTestRunner_PY3-master/ExampleReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/HTMLTestRunner_PY3-master/HTMLTestRunner_PY3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/HTMLTestRunner_PY3-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/HTMLTestRunner_PY3-master/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/HTMLTestRunner_PY3-master/img/echarts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/HTMLTestRunner_PY3-master/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/demo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/demo1.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/empty_book1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/loginurl_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/python_chapt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/pyyaml_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/read_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/test_unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automated test/python_test/url_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/github.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/github.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_detail/code/02_深浅拷贝.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_detail/code/02_深浅拷贝.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automated test/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/automated test/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automated test/python_test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/automated test/python_test/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,67 +44,51 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2MzTn86qHXlOIY3u2CPjd4lZBcV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="MTHome" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/automated test/python_test/test_unittest.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.test_random">
-    <configuration name="random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="pytest in test_pytest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="github" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/automated test/python_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/automated test/python_test/random.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="github" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/automated test/python_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/automated test/python_test/test_random.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/automated test/python_test/test_pytest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_random" />
-        <item itemvalue="Python.random" />
+        <item itemvalue="Python tests.pytest in test_pytest.py" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +100,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678769575881</updated>
-      <workItem from="1678769586739" duration="2062000" />
+      <workItem from="1678769586739" duration="20152000" />
+      <workItem from="1679309388949" duration="2476000" />
+      <workItem from="1679411830980" duration="11320000" />
+      <workItem from="1679927790646" duration="4686000" />
+      <workItem from="1679933912231" duration="1647000" />
+      <workItem from="1680101584021" duration="10588000" />
+      <workItem from="1681113355819" duration="22665000" />
     </task>
     <servers />
   </component>
@@ -115,9 +123,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/github$read_excel.coverage" NAME="read_excel Coverage Results" MODIFIED="1679047941587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$pytest_for_test_pytest_TestDemo0_test_three.coverage" NAME="pytest for test_pytest.TestDemo0.test_three Coverage Results" MODIFIED="1681908722737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
     <SUITE FILE_PATH="coverage/github$test_random.coverage" NAME="test_random Coverage Results" MODIFIED="1678790339167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$.coverage" NAME=" Coverage Results" MODIFIED="1681535149513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test/HTMLTestRunner_PY3-master" />
     <SUITE FILE_PATH="coverage/github$random.coverage" NAME="random Coverage Results" MODIFIED="1678770551792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$main.coverage" NAME="main Coverage Results" MODIFIED="1678985484310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$game.coverage" NAME="game Coverage Results" MODIFIED="1678950795113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$pytest_for_test_pytest_TestDemo0_test_one.coverage" NAME="pytest for test_pytest.TestDemo0.test_one Coverage Results" MODIFIED="1681908692659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$pytest_for_test_pytest_TestDemo1_test_b.coverage" NAME="pytest for test_pytest.TestDemo1.test_b Coverage Results" MODIFIED="1681898598547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$pytest_in_test_pytest_py.coverage" NAME="pytest in test_pytest.py Coverage Results" MODIFIED="1682054652993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$test.coverage" NAME="test Coverage Results" MODIFIED="1678964333394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$pytest_for_test_pytest_TestDemo0.coverage" NAME="pytest for test_pytest.TestDemo0 Coverage Results" MODIFIED="1681909930157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$loginurl_test.coverage" NAME="loginurl_test Coverage Results" MODIFIED="1680166168431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$excel.coverage" NAME="excel Coverage Results" MODIFIED="1679046826940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$pyyaml_test.coverage" NAME="pyyaml_test Coverage Results" MODIFIED="1679637214017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$pytest_for_test_pytest_TestDemo0_test_two.coverage" NAME="pytest for test_pytest.TestDemo0.test_two Coverage Results" MODIFIED="1681908712733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$url_test.coverage" NAME="url_test Coverage Results" MODIFIED="1680186253201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
+    <SUITE FILE_PATH="coverage/github$python_chapt.coverage" NAME="python_chapt Coverage Results" MODIFIED="1680166151681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automated test/python_test" />
   </component>
 </project>
